@@ -11,6 +11,7 @@
 
 ## js
 * [闭包](https://github.com/summerhll/blog/blob/a376196b33756c3e7b0c349740b7587e8a715c67/js/%E9%97%AD%E5%8C%85.md)
+* [this](https://github.com/summerhll/blog/blob/df2b08b15242589d55ec3b8229a4d36485684438/js/this.md)
 * [手写 promise](https://github.com/summerhll/blog/blob/8e9370d9178f3b3774b79f24ba8c94e87007376d/js/promise.md)
 * [call、apply、bind](https://github.com/summerhll/blog/blob/b8eba5fc88ff9dcc82e3fcff70f7c4f1ad78c0c2/js/apply-call-bind.md)
 * [节流防抖](https://github.com/summerhll/blog/blob/8b91f5fe8a1139faaca9cbc07f572418b5c893d8/js/%E8%8A%82%E6%B5%81%E9%98%B2%E6%8A%96.md)
