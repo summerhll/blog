@@ -10,6 +10,7 @@
 * [Vue的响应式原理](https://github.com/summerhll/blog/blob/22501417ab91e84f7ca0d6c00ade3df573da9e9f/Vue2/Vue%E7%9A%84%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86.md)
 
 ## js
+* [js数据类型](https://github.com/summerhll/blog/blob/81f09aee0012f3296c869bd7f19ef360f14422b9/js/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 * [闭包](https://github.com/summerhll/blog/blob/a376196b33756c3e7b0c349740b7587e8a715c67/js/%E9%97%AD%E5%8C%85.md)
 * [this](https://github.com/summerhll/blog/blob/df2b08b15242589d55ec3b8229a4d36485684438/js/this.md)
 * [手写 promise](https://github.com/summerhll/blog/blob/8e9370d9178f3b3774b79f24ba8c94e87007376d/js/promise.md)
@@ -28,6 +29,7 @@
 ## 网络
 * [浏览器渲染流程](https://github.com/summerhll/blog/blob/5a770862dd65bba1178236aa15e050a369c7f585/%E7%BD%91%E7%BB%9C/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B.md)
 * [浏览器缓存](https://github.com/summerhll/blog/blob/78c0e7d7425676e2eb2baac2a812a4044c80accb/%E7%BD%91%E7%BB%9C/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98.md)
+
 ## 性能优化
 
 
