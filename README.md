@@ -16,6 +16,7 @@
 * [call、apply、bind](https://github.com/summerhll/blog/blob/b8eba5fc88ff9dcc82e3fcff70f7c4f1ad78c0c2/js/apply-call-bind.md)
 * [节流防抖](https://github.com/summerhll/blog/blob/8b91f5fe8a1139faaca9cbc07f572418b5c893d8/js/%E8%8A%82%E6%B5%81%E9%98%B2%E6%8A%96.md)
 * [数组常用的属性和方法](https://github.com/summerhll/blog/blob/570ccc4a536e4fc6a3e926eb5150bd7eff23f997/js/%E6%95%B0%E7%BB%84%E5%B8%B8%E7%94%A8%E7%9A%84%E5%B1%9E%E6%80%A7%E5%92%8C%E6%96%B9%E6%B3%95.md)
+* [模块化开发](https://github.com/summerhll/blog/blob/f81854a87e8fb1784532d018b4dff9cb2cb901a4/js/%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91.md)
 
 ## css
 * [1px](https://github.com/summerhll/blog/blob/16b0a544cdcf3b4acc90bd7cd6b282757a69f4ec/css/1px.md)
