@@ -23,7 +23,7 @@
 ## css
 * [1px](https://github.com/summerhll/blog/blob/16b0a544cdcf3b4acc90bd7cd6b282757a69f4ec/css/1px.md)
 * [回流重绘](https://github.com/summerhll/blog/blob/e810c57ff32153cb86afdb783f8067e90a6a4a31/css/%E5%9B%9E%E6%B5%81%E9%87%8D%E7%BB%98.md)
-* [BFC](https://github.com/summerhll/blog/blob/ccf54bf59ffae8b3b74d078c5ffa0b4f012056ec/css/BFC.md)
+* [BFC](https://github.com/summerhll/blog/blob/abca6ee8beaccbb5f22e754b86d438a069a8fa9f/css/bfc.md)
 * [flex](https://github.com/summerhll/blog/blob/e024ddd9c02bbc5c716425b84a3b32a12fa6580f/css/flex.md)
 * [水平垂直居中](https://github.com/summerhll/blog/blob/c056dbfb38445044434236b9afdf96d1b8f77e64/css/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD.md)
 * [CSS基础](https://github.com/summerhll/blog/blob/f8e5b66930d9bdec9977f70bc1c9d5dd67be5f97/css/css%E5%9F%BA%E7%A1%80.md)
