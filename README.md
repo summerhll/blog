@@ -28,6 +28,7 @@
 * [1px](https://github.com/summerhll/blog/blob/16b0a544cdcf3b4acc90bd7cd6b282757a69f4ec/css/1px.md)
 * [回流重绘](https://github.com/summerhll/blog/blob/e810c57ff32153cb86afdb783f8067e90a6a4a31/css/%E5%9B%9E%E6%B5%81%E9%87%8D%E7%BB%98.md)
 * [z-index失效](https://github.com/summerhll/blog/blob/d640ea1a7087e960ca7123782f44986ed43f4487/css/z-index%E5%A4%B1%E6%95%88.md)
+* [last-child 和 last-of-type](https://github.com/summerhll/blog/blob/dd0cd966b1fcb23ac982418cc41af3c1f2aa62ab/css/last-child%20%E5%92%8C%20last-of-type.md)
 
 ## 网络
 * [浏览器渲染流程](https://github.com/summerhll/blog/blob/5a770862dd65bba1178236aa15e050a369c7f585/%E7%BD%91%E7%BB%9C/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E6%B5%81%E7%A8%8B.md)
