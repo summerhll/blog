@@ -35,6 +35,8 @@
 * [浏览器缓存](https://github.com/summerhll/blog/blob/78c0e7d7425676e2eb2baac2a812a4044c80accb/%E7%BD%91%E7%BB%9C/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98.md)
 
 ## 性能优化
+## 设计模式
+* [单例模式](https://github.com/summerhll/blog/blob/79aa8d1cc2e35cd9b2f608f33c1186bbe6954194/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
 
 
