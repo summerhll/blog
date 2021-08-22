@@ -102,16 +102,3 @@ import { Button, Select } from 'element-ui';
 （2）服务端渲染的缺点：
  更多的开发条件限制、更多的服务器负载：
 
-# 二. 打包优化
-
-1. SourceMap 线上环境关闭，第一次发布项目时可以开启，便于查错。
-2. splitChunksPlugins： 分割公共代码。
-3. 减少 ES6 转为 ES5 的冗余代码: babel-plugin-transform-runtime
-
-4. webpack-bundle-analyzer 输出结果分析
-
-# 三. 基础的 Web 技术优化
-1. 服务器端开启 gzip 压缩
-2. 浏览器缓存
-3. CDN 的使用(静态资源)
-4. 使用 Chrome Performance 查找性能瓶颈
