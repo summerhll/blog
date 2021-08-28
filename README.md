@@ -8,7 +8,7 @@
 ## Vue2
 * [Vue性能优化](https://github.com/summerhll/blog/blob/c4d204d2ec6d7dd98240b1a8c2737f61b5a03849/Vue2/Vue%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
 * [Vue的响应式原理](https://github.com/summerhll/blog/blob/22501417ab91e84f7ca0d6c00ade3df573da9e9f/Vue2/Vue%E7%9A%84%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86.md)
-
+* [Vuex简单实现](https://github.com/summerhll/blog/blob/4837d16c0eb699cbedd8dcf601e71ccb54e54b4a/Vue2/vuex%E5%8E%9F%E7%90%86.md)
 ## js
 * [js数据类型](https://github.com/summerhll/blog/blob/81f09aee0012f3296c869bd7f19ef360f14422b9/js/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 * [闭包](https://github.com/summerhll/blog/blob/a376196b33756c3e7b0c349740b7587e8a715c67/js/%E9%97%AD%E5%8C%85.md)
