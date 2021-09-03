@@ -1,10 +1,11 @@
 # blog
 个人博客
-* [vue3 reactivity](https://github.com/summerhll/blog/blob/1f1968c359e46f803998264b356396599712afa7/vue3/reactivity.md)
+
 
 
 
 ## Vue3
+* [vue3 reactivity](https://github.com/summerhll/blog/blob/1f1968c359e46f803998264b356396599712afa7/vue3/reactivity.md)
 
 ## Vue2
 * [Vue性能优化](https://github.com/summerhll/blog/blob/c4d204d2ec6d7dd98240b1a8c2737f61b5a03849/Vue2/Vue%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
