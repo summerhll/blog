@@ -1,5 +1,6 @@
 # blog
 个人博客
+* [vue3 reactivity](https://github.com/summerhll/blog/blob/1f1968c359e46f803998264b356396599712afa7/vue3/reactivity.md)
 
 
 
