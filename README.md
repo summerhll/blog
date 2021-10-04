@@ -5,7 +5,8 @@
 
 
 ## Vue3
-* [vue3 reactivity](https://github.com/summerhll/blog/blob/1f1968c359e46f803998264b356396599712afa7/vue3/reactivity.md)
+* [Vue3 与 Vue2的区别](https://github.com/summerhll/blog/blob/6512ed16c9484a2fd95f101778873517b2be5891/vue3/Vue2%20%E4%B8%8EVue3%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+* [Vue3 reactivity](https://github.com/summerhll/blog/blob/1f1968c359e46f803998264b356396599712afa7/vue3/reactivity.md)
 
 ## Vue2
 * [Vue性能优化](https://github.com/summerhll/blog/blob/c4d204d2ec6d7dd98240b1a8c2737f61b5a03849/Vue2/Vue%20%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
